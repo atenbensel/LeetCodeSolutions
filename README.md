@@ -8,6 +8,7 @@ Here are the daily solutions for Juleetcode 2023 for Python (not Python3).
 <br>
 Enjoy the code solutions as well as video tutorials I've made so I can practice working on explaining my work while I'm doing it. 
 Please feel free to contribute!
+<br>
 
 | Day | Repo | Video Tutorial |
 | --- | --- | --- |
