@@ -1,6 +1,37 @@
 # LeetCodeSolutions
 Providing my solutions for LeetCodes! I'll flesh out this README soon!
 <br>
+<br>
+
+# Python Solutions
+<br>
+Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs
+<br>
+
+| Number & Name | Repo | Video Tutorial |
+| --- | --- | --- |
+| 1. Two Sum | Link | Tutorial |
+| 2. Add Two Numbers | Link | Tutorial |
+| 3. Longest Substring Without Repeating Characters | Link | Tutorial |
+| 4. Median of Two Sorted Arrays | Link | Tutorial |
+| 5. Longest Palindromic Substring | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| 20. Valid Parentheses | Link | Tutorial |
+
+<br>
 
 # Juleetcode Solutions 2023
 <br>
