@@ -14,5 +14,6 @@ Please feel free to contribute!
 | --- | --- | --- |
 | Day 1 - 2305 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2305_FairDistributionOfCookies.py) | [YouTube](https://www.youtube.com/watch?v=CCh-VZ3NYQE) |
 | Day 2 - 1601 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1601_MaximumNumberofAchievableTransferRequests.py) | [YouTube](https://www.youtube.com/watch?v=c1cnwQuwLV8) |
-| Day 3 - 859 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/859_BuddyStrings.py) | YouTube |
+| Day 3 - 859 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/859_BuddyStrings.py) | [YouTube](https://www.youtube.com/watch?v=lbbxSsmzznI) |
 | Day 4 - 137 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/137_SingleNumberII.py) | [YouTube](https://www.youtube.com/watch?v=wHRAWoDzX5w) |
+| Day 5 - 1493 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1493_LongestSubarrayof1sAfterDeletingOneElement.py) | YouTube
