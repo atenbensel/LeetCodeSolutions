@@ -17,7 +17,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 5. Longest Palindromic Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/5_LongestPalindromicSubstring.py) | Tutorial |
 | 6. Zigzag Conversion | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/6_ZigzagConversion.py) | Tutorial |
 | 7. Reverse Integer | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/7_ReverseInteger.py) | Tutorial |
-| --- | Link | Tutorial |
+| 8. String to Integer (atoi) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/8_StringtoInteger(atoi).py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
