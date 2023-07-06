@@ -18,7 +18,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 6. Zigzag Conversion | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/6_ZigzagConversion.py) | Tutorial |
 | 7. Reverse Integer | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/7_ReverseInteger.py) | Tutorial |
 | 8. String to Integer (atoi) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/8_StringtoInteger(atoi).py) | Tutorial |
-| --- | Link | Tutorial |
+| 9. Palindrome Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/9_PalindromeNumber.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
