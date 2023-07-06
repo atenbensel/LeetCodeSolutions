@@ -15,7 +15,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 3. Longest Substring Without Repeating Characters | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/3_LongestSubstringWithout%20RepeatingCharacters.py) | Tutorial |
 | 4. Median of Two Sorted Arrays | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/4_MedianOfTwoSortedArrays.py) | Tutorial |
 | 5. Longest Palindromic Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/5_LongestPalindromicSubstring.py) | Tutorial |
-| --- | Link | Tutorial |
+| 6. Zigzag Conversion | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/6_ZigzagConversion.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
