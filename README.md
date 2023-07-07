@@ -49,6 +49,10 @@ Please feel free to contribute!
 | Day 4 - 137 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/137_SingleNumberII.py) | [YouTube](https://www.youtube.com/watch?v=wHRAWoDzX5w) |
 | Day 5 - 1493 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1493_LongestSubarrayof1sAfterDeletingOneElement.py) | [YouTube](https://www.youtube.com/watch?v=aYssu5eMHlI) |
 | Day 6 - 209 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/209_MinimumSizeSubarraySum.py) | [YouTube](https://www.youtube.com/watch?v=HZk30S2tpFI) |
+| Day 7 - 2024 | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
 
 
 
