@@ -20,16 +20,31 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 8. String to Integer (atoi) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/8_StringtoInteger(atoi).py) | Tutorial |
 | 9. Palindrome Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/9_PalindromeNumber.py) | Tutorial |
 | 10. Regular Expression Matching | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/10_RegularExpressionMatching.py) | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 11. Container With Most Water | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/11_ContainerWithMostWater.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
+| 12. Integer to Roman | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/12_IntegertoRoman.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
+| 13. Roman to Integer | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/13_RomantoInteger.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
+| 14. Longest Common Prefix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/14_LongestCommonPrefix.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
+| 15. 3Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/15_3Sum.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | 20. Valid Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/20_ValidParentheses.py) | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
 
 <br>
 
