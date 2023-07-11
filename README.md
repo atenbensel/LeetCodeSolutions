@@ -25,14 +25,14 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 13. Roman to Integer | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/13_RomantoInteger.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
 | 14. Longest Common Prefix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/14_LongestCommonPrefix.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
 | 15. 3Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/15_3Sum.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| 20. Valid Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/20_ValidParentheses.py) | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 16. 3Sum Closest | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/16_3SumClosest.py) | [Tutorial](https://www.youtube.com/watch?v=qSNmOn_8S10) |
+| 17. Letter Combinations of a Phone Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/17_LetterCombinationsofaPhoneNumber.py) | [Tutorial](https://www.youtube.com/watch?v=qSNmOn_8S10) |
+| 18. 4Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/18_4Sum.py) | [Tutorial](https://www.youtube.com/watch?v=qSNmOn_8S10) |
+| 19. Remove Nth Node From End of List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/19_RemoveNthNodeFromEndofList.py) | [Tutorial](https://www.youtube.com/watch?v=qSNmOn_8S10) |
+| 20. Valid Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/20_ValidParentheses.py) | [Tutorial](https://www.youtube.com/watch?v=qSNmOn_8S10) |
+| 21. Merge Two Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/21_MergeTwoSortedLists.py) | [Tutorial ](https://www.youtube.com/watch?v=qSNmOn_8S10)|
+| 22. Generate Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/22_GenerateParentheses.py) | [Tutorial](https://www.youtube.com/watch?v=v2qRGYDJRBc) |
+| 23. Merge k Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/23_MergekSortedLists.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
@@ -66,7 +66,7 @@ Please feel free to contribute!
 | Day 6 - 209 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/209_MinimumSizeSubarraySum.py) | [YouTube](https://www.youtube.com/watch?v=HZk30S2tpFI) |
 | Day 7 - 2024 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2024_MaximizetheConfusionofanExam.py) | [YouTube](https://www.youtube.com/watch?v=AbVJHh7yN20) |
 | Day 8 - 2551 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2551_PutMarblesinBags.py) | [YouTube](https://www.youtube.com/watch?v=JwrViuV9_-o) |
-| Day 9 - 2272 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2272_SubstringWithLargestVariance.py) | YouTube |
+| Day 9 - 2272 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2272_SubstringWithLargestVariance.py) | [YouTube](https://www.youtube.com/watch?v=HotFol0OygA) |
 | Dy 10 - 111 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/111_MinimumDepthofBinaryTree.py) | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
