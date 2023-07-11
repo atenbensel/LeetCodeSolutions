@@ -32,7 +32,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 20. Valid Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/20_ValidParentheses.py) | [Tutorial](https://www.youtube.com/watch?v=qSNmOn_8S10) |
 | 21. Merge Two Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/21_MergeTwoSortedLists.py) | [Tutorial ](https://www.youtube.com/watch?v=qSNmOn_8S10)|
 | 22. Generate Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/22_GenerateParentheses.py) | [Tutorial](https://www.youtube.com/watch?v=v2qRGYDJRBc) |
-| 23. Merge k Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/23_MergekSortedLists.py) | Tutorial |
+| 23. Merge k Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/23_MergekSortedLists.py) | [Tutorial](https://www.youtube.com/watch?v=La9WKOZDj3k) |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
