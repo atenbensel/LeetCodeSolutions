@@ -67,11 +67,21 @@ Please feel free to contribute!
 | Day 7 - 2024 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2024_MaximizetheConfusionofanExam.py) | [YouTube](https://www.youtube.com/watch?v=AbVJHh7yN20) |
 | Day 8 - 2551 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2551_PutMarblesinBags.py) | [YouTube](https://www.youtube.com/watch?v=JwrViuV9_-o) |
 | Day 9 - 2272 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2272_SubstringWithLargestVariance.py) | [YouTube](https://www.youtube.com/watch?v=HotFol0OygA) |
-| Dy 10 - 111 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/111_MinimumDepthofBinaryTree.py) | YouTube |
+| Day 10 - 111 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/111_MinimumDepthofBinaryTree.py) | [YouTube](https://www.youtube.com/watch?v=qRbS6Xzzdws) |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+| --- | Link | YouTube |
+
 
 
 
