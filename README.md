@@ -33,8 +33,8 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 21. Merge Two Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/21_MergeTwoSortedLists.py) | [Tutorial ](https://www.youtube.com/watch?v=qSNmOn_8S10)|
 | 22. Generate Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/22_GenerateParentheses.py) | [Tutorial](https://www.youtube.com/watch?v=v2qRGYDJRBc) |
 | 23. Merge k Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/23_MergekSortedLists.py) | [Tutorial](https://www.youtube.com/watch?v=La9WKOZDj3k) |
-| 24. Swap Nodes in Pairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/24_SwapNodesinPairs.py) | Tutorial |
-| --- | Link | Tutorial |
+| 24. Swap Nodes in Pairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/24_SwapNodesinPairs.py) | [Tutorial](https://www.youtube.com/watch?v=b-txQaI9v9o) |
+| 25. Reverse Nodes in k-Group | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/25_ReverseNodesink-Group.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
