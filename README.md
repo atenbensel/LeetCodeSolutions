@@ -34,7 +34,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 22. Generate Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/22_GenerateParentheses.py) | [Tutorial](https://www.youtube.com/watch?v=v2qRGYDJRBc) |
 | 23. Merge k Sorted Lists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/23_MergekSortedLists.py) | [Tutorial](https://www.youtube.com/watch?v=La9WKOZDj3k) |
 | 24. Swap Nodes in Pairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/24_SwapNodesinPairs.py) | [Tutorial](https://www.youtube.com/watch?v=b-txQaI9v9o) |
-| 25. Reverse Nodes in k-Group | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/25_ReverseNodesink-Group.py) | Tutorial |
+| 25. Reverse Nodes in k-Group | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/25_ReverseNodesink-Group.py) | [Tutorial](https://www.youtube.com/watch?v=J4x2R-iE_PA) |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
@@ -69,8 +69,8 @@ Please feel free to contribute!
 | Day 9 - 2272 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2272_SubstringWithLargestVariance.py) | [YouTube](https://www.youtube.com/watch?v=HotFol0OygA) |
 | Day 10 - 111 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/111_MinimumDepthofBinaryTree.py) | [YouTube](https://www.youtube.com/watch?v=qRbS6Xzzdws) |
 | Day 11 - 863| [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/863_AllNodesDistanceKinBinaryTree.py) | [YouTube](https://www.youtube.com/watch?v=EcCC53qU_Mk) |
-| Day 12 - 802 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/802_FindEventualSafeStates.py) | YouTube |
-| --- | Link | YouTube |
+| Day 12 - 802 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/802_FindEventualSafeStates.py) | [YouTube](https://www.youtube.com/watch?v=NR_oDeK8nZU) |
+| Day 13 - 207 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/207_CourseSchedule.py) | [YouTube](https://www.youtube.com/watch?v=EycPx96esqg) |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
