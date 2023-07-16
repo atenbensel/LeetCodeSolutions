@@ -72,8 +72,8 @@ Please feel free to contribute!
 | Day 12 - 802 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/802_FindEventualSafeStates.py) | [YouTube](https://www.youtube.com/watch?v=NR_oDeK8nZU) |
 | Day 13 - 207 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/207_CourseSchedule.py) | [YouTube](https://www.youtube.com/watch?v=EycPx96esqg) |
 | Day 14 - 1218 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1218.py) | [YouTube](https://www.youtube.com/watch?v=xHPaSQC0o_Y) |
-| --- | Link | YouTube |
-| --- | Link | YouTube |
+| Day 15 - 1751 | Link | YouTube |
+| Day 16 - 1125 | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
