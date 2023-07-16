@@ -73,7 +73,7 @@ Please feel free to contribute!
 | Day 13 - 207 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/207_CourseSchedule.py) | [YouTube](https://www.youtube.com/watch?v=EycPx96esqg) |
 | Day 14 - 1218 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1218.py) | [YouTube](https://www.youtube.com/watch?v=xHPaSQC0o_Y) |
 | Day 15 - 1751 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1751.py) | [YouTube](https://www.youtube.com/watch?v=izoT1ljMIkk) |
-| Day 16 - 1125 | Link | YouTube |
+| Day 16 - 1125 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1125.py) | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
@@ -82,9 +82,21 @@ Please feel free to contribute!
 | --- | Link | YouTube |
 | --- | Link | YouTube |
 
+<br>
+<br>
 
+# Rust Solutions
+<br>
+Below are the LeetCode solutions in Rust with corresponding tutorials/walkthroughs
+<br>
 
-
+| Number & Name | Repo | Video Tutorial |
+| --- | --- | --- |
+| 1. Two Sum | Link | Tutorial |
+| 2. Add Two Numbers | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
 
 
 
