@@ -73,7 +73,7 @@ Please feel free to contribute!
 | Day 13 - 207 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/207_CourseSchedule.py) | [YouTube](https://www.youtube.com/watch?v=EycPx96esqg) |
 | Day 14 - 1218 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1218.py) | [YouTube](https://www.youtube.com/watch?v=xHPaSQC0o_Y) |
 | Day 15 - 1751 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1751.py) | [YouTube](https://www.youtube.com/watch?v=izoT1ljMIkk) |
-| Day 16 - 1125 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1125.py) | YouTube |
+| Day 16 - 1125 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1125.py) | [YouTube](https://www.youtube.com/watch?v=O77XbOE7unY) |
 | Day 17 - 445 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/445.py) | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
