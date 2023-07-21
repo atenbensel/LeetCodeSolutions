@@ -77,7 +77,7 @@ Please feel free to contribute!
 | Day 17 - 445 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/445.py) | [YouTube](https://www.youtube.com/watch?v=0Fs9YoMzpiU) |
 | Day 18 - 146 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/146.py) | [YouTube](https://www.youtube.com/watch?v=l_15UemNI0E) |
 | Day 19 - 435 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/435.py) | [YouTube](https://www.youtube.com/watch?v=VB0_PeeSF3k) |
-| Day 20 - 735 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/735.py) | YouTube |
+| Day 20 - 735 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/735.py) | [YouTube](https://www.youtube.com/watch?v=LAhtcNEKJu4) |
 | Day 21 - 673 | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
