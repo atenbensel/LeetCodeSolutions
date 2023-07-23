@@ -80,7 +80,7 @@ Please feel free to contribute!
 | Day 20 - 735 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/735.py) | [YouTube](https://www.youtube.com/watch?v=LAhtcNEKJu4) |
 | Day 21 - 673 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/673.py) | [YouTube](https://www.youtube.com/watch?v=P_aORWhR48k) |
 | Day 22 - 688 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/688.py) | [YouTube](https://youtu.be/q432SNT3-JU) |
-| Day 23 - 894 | Link | YouTube |
+| Day 23 - 894 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/894.py) | [YouTube](https://www.youtube.com/watch?v=z4yPpelC8iI) |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
 | --- | Link | YouTube |
