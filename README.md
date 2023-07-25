@@ -101,11 +101,14 @@ Below are the LeetCode solutions in Rust with corresponding tutorials/walkthroug
 
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
-| 1. Two Sum | Link | Tutorial |
-| 2. Add Two Numbers | Link | Tutorial |
+| 1 | Link | Tutorial |
+| 2 | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
-
-
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| 852 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/rust/852.rs
+) | Tutorial |
 
