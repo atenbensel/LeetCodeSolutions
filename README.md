@@ -88,7 +88,7 @@ Please feel free to contribute!
 | Day 28 - 486 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/486.py) | YouTube |
 | Day 29 - 808 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/808.py) | YouTube |
 | Day 30 - 664 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/664.py) | YouTube |
-| Day 31 - 721 | Link | YouTube |
+| Day 31 - 712 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/712.py) | YouTube |
 
 <br>
 <br>
@@ -108,6 +108,5 @@ Below are the LeetCode solutions in Rust with corresponding tutorials/walkthroug
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
-| 852 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/rust/852.rs
-) | Tutorial |
+| 852 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/rust/852.rs) | Tutorial |
 
