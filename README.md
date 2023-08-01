@@ -45,6 +45,22 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
 
 <br>
 
