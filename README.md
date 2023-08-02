@@ -46,7 +46,11 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
+| 46. Permutations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/46.py) | Tutorial |
 | --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| 50. Pow(x, n) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/50.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
