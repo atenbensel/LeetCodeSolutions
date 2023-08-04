@@ -37,18 +37,18 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 25. Reverse Nodes in k-Group | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/25_ReverseNodesink-Group.py) | [Tutorial](https://www.youtube.com/watch?v=J4x2R-iE_PA) |
 | 26. Remove Duplicates from Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/26.py) | Tutorial |
 | 27. Remove Element | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/27.py) | Tutorial |
-| --- | Link | Tutorial |
+| 28. Find the Index of the First Occurrence in a String | Link | Tutorial |
 | 29. Divide Two Integers | Link | Tutorial |
 | 30. Substring with Concatenation of All Words | Link | Tutorial |
 | 31. Next Permutation | Link | Tutorial |
 | 32. Longest Valid Parentheses | Link | Tutorial |
 | 33. Search in Rotated Sorted Array | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 34. Find First and Last Position of Element in Sorted Array | Link | Tutorial |
+| 35. Search Insert Position | Link | Tutorial |
+| 36. Valid Sudoku | Link | Tutorial |
+| 37. Sudoku Solver | Link | Tutorial |
+| 38. Count and Say | Link | Tutorial |
+| 39. Combination Sum | Link | Tutorial |
 | 39. Combination Sum | Link | Tutorial |
 | 40. Combination Sum II | Link | Tutorial |
 | 41. First Missing Positive | Link | Tutorial |
