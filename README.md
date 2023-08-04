@@ -36,7 +36,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 24. Swap Nodes in Pairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/24_SwapNodesinPairs.py) | [Tutorial](https://www.youtube.com/watch?v=b-txQaI9v9o) |
 | 25. Reverse Nodes in k-Group | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/25_ReverseNodesink-Group.py) | [Tutorial](https://www.youtube.com/watch?v=J4x2R-iE_PA) |
 | 26. Remove Duplicates from Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/26.py) | Tutorial |
-| 27. Remove Element | Link | Tutorial |
+| 27. Remove Element | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/27.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
