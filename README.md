@@ -38,18 +38,28 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 26. Remove Duplicates from Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/26.py) | Tutorial |
 | 27. Remove Element | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/27.py) | Tutorial |
 | --- | Link | Tutorial |
+| 29. Divide Two Integers | Link | Tutorial |
+| 30. Substring with Concatenation of All Words | Link | Tutorial |
+| 31. Next Permutation | Link | Tutorial |
+| 32. Longest Valid Parentheses | Link | Tutorial |
+| 33. Search in Rotated Sorted Array | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 39. Combination Sum | Link | Tutorial |
+| 40. Combination Sum II | Link | Tutorial |
+| 41. First Missing Positive | Link | Tutorial |
+| 42. Trapping Rain Water | Link | Tutorial |
+| 43. Multiply Strings | Link | Tutorial |
+| 44. Wildcard Matching | Link | Tutorial |
+| 45. Jump Game II | Link | Tutorial |
 | 46. Permutations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/46.py) | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 47. Permutations II | Link | Tutorial |
+| 48. Rotate Image | Link | Tutorial |
+| 49. Group Anagrams | Link | Tutorial |
 | 50. Pow(x, n) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/50.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
