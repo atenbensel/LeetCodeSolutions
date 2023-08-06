@@ -7,6 +7,8 @@ Providing my solutions for LeetCodes! I'll flesh out this README soon!
 <br>
 Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs
 <br>
+<br>
+
 
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
