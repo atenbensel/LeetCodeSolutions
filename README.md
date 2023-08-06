@@ -40,7 +40,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 26. Remove Duplicates from Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/26.py) | Tutorial |
 | 27. Remove Element | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/27.py) | Tutorial |
 | 28. Find the Index of the First Occurrence in a String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/28.py) | Tutorial |
-| 29. Divide Two Integers | Link | Tutorial |
+| 29. Divide Two Integers | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/29.py) | Tutorial |
 | 30. Substring with Concatenation of All Words | Link | Tutorial |
 | 31. Next Permutation | Link | Tutorial |
 | 32. Longest Valid Parentheses | Link | Tutorial |
