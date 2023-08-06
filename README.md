@@ -85,7 +85,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
-| 920. Number of Music Playlists | Link | Tutorial |
+| 920. Number of Music Playlists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/920.py) | Tutorial |
 | --- | Link | Tutorial |
 <br>
 
