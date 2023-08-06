@@ -77,7 +77,16 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | 139. Word Break | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/139.py) | Tutorial |
-
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| 920. Number of Music Playlists | Link | Tutorial |
+| --- | Link | Tutorial |
 <br>
 
 # Juleetcode Solutions 2023
