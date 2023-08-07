@@ -65,7 +65,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 50. Pow(x, n) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/50.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
-| 74. | Link | Tutorial |
+| 74. Search a 2D Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/74.py) | Tutorial |
 | --- | Link | Tutorial |
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
 | --- | Link | Tutorial |
