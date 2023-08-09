@@ -9,7 +9,6 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 <br>
 <br>
 
-
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
 | 1. Two Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1_TwoSum.py) | Tutorial |
