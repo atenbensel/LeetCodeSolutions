@@ -62,6 +62,15 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 48. Rotate Image | Link | Tutorial |
 | 49. Group Anagrams | Link | Tutorial |
 | 50. Pow(x, n) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/50.py) | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
+| --- | Link | Tutorial |
 | 63. Unique Paths II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/63.py) | Tutorial |
 | --- | Link | Tutorial |
 | 74. Search a 2D Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/74.py) | Tutorial |
