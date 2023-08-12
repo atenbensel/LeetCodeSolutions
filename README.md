@@ -69,7 +69,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 81. Search in Rotated Sorted Array II | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
