@@ -1,5 +1,6 @@
 # LeetCodeSolutions
-Providing my solutions for LeetCodes! I'll flesh out this README soon!
+Providing my solutions for LeetCodes!
+UPDATE: Been traveling but will be creating the tutorials for about 20 of these questions! I'll flesh out this README soon!
 <br>
 <br>
 
