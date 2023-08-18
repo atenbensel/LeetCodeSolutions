@@ -12,7 +12,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
-| 1. Two Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1_TwoSum.py) | Tutorial |
+| 1. Two Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1_TwoSum.py) | [Tutorial](https://www.youtube.com/watch?v=bkdS3lsqTM4) |
 | 2. Add Two Numbers | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/2_AddTwoNumbers.py) | Tutorial |
 | 3. Longest Substring Without Repeating Characters | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/3_LongestSubstringWithout%20RepeatingCharacters.py) | Tutorial |
 | 4. Median of Two Sorted Arrays | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/4_MedianOfTwoSortedArrays.py) | Tutorial |
