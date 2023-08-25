@@ -45,7 +45,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 31. Next Permutation | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/31.py) | Tutorial |
 | 32. Longest Valid Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/32.py) | Tutorial |
 | 33. Search in Rotated Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/33.py) | Tutorial |
-| 34. Find First and Last Position of Element in Sorted Array | Link | Tutorial |
+| 34. Find First and Last Position of Element in Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/34.py) | Tutorial |
 | 35. Search Insert Position | Link | Tutorial |
 | 36. Valid Sudoku | Link | Tutorial |
 | 37. Sudoku Solver | Link | Tutorial |
