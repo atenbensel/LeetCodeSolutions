@@ -50,8 +50,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 36. Valid Sudoku | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/36.py) | Tutorial |
 | 37. Sudoku Solver | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/37.py) | Tutorial |
 | 38. Count and Say | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/38.py) | Tutorial |
-| 39. Combination Sum | Link | Tutorial |
-| 39. Combination Sum | Link | Tutorial |
+| 39. Combination Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/39.py) | Tutorial |
 | 40. Combination Sum II | Link | Tutorial |
 | 41. First Missing Positive | Link | Tutorial |
 | 42. Trapping Rain Water | Link | Tutorial |
