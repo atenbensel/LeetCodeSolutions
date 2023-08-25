@@ -47,7 +47,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 33. Search in Rotated Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/33.py) | Tutorial |
 | 34. Find First and Last Position of Element in Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/34.py) | Tutorial |
 | 35. Search Insert Position | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/35.py) | Tutorial |
-| 36. Valid Sudoku | Link | Tutorial |
+| 36. Valid Sudoku | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/36.py) | Tutorial |
 | 37. Sudoku Solver | Link | Tutorial |
 | 38. Count and Say | Link | Tutorial |
 | 39. Combination Sum | Link | Tutorial |
