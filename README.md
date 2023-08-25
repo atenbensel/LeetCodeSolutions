@@ -18,7 +18,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 4. Median of Two Sorted Arrays | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/4_MedianOfTwoSortedArrays.py) | [Tutorial](https://www.youtube.com/watch?v=dQXdSSlNJNE) |
 | 5. Longest Palindromic Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/5_LongestPalindromicSubstring.py) | [Tutorial](https://www.youtube.com/watch?v=u5DFJIfxz_I&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=5) |
 | 6. Zigzag Conversion | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/6_ZigzagConversion.py) | [Tutorial](https://www.youtube.com/watch?v=HCHd5IhlNQ4) |
-| 7. Reverse Integer | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/7_ReverseInteger.py) | Tutorial |
+| 7. Reverse Integer | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/7_ReverseInteger.py) | [Tutorial](https://www.youtube.com/watch?v=jDa4alk1r9c) |
 | 8. String to Integer (atoi) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/8_StringtoInteger(atoi).py) | Tutorial |
 | 9. Palindrome Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/9_PalindromeNumber.py) | Tutorial |
 | 10. Regular Expression Matching | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/10_RegularExpressionMatching.py) | Tutorial |
