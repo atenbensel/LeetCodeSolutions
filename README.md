@@ -49,7 +49,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 35. Search Insert Position | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/35.py) | Tutorial |
 | 36. Valid Sudoku | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/36.py) | Tutorial |
 | 37. Sudoku Solver | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/37.py) | Tutorial |
-| 38. Count and Say | Link | Tutorial |
+| 38. Count and Say | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/38.py) | Tutorial |
 | 39. Combination Sum | Link | Tutorial |
 | 39. Combination Sum | Link | Tutorial |
 | 40. Combination Sum II | Link | Tutorial |
