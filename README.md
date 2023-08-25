@@ -42,7 +42,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 28. Find the Index of the First Occurrence in a String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/28.py) | Tutorial |
 | 29. Divide Two Integers | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/29.py) | Tutorial |
 | 30. Substring with Concatenation of All Words | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/30.py) | Tutorial |
-| 31. Next Permutation | Link | Tutorial |
+| 31. Next Permutation | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/31.py) | Tutorial |
 | 32. Longest Valid Parentheses | Link | Tutorial |
 | 33. Search in Rotated Sorted Array | Link | Tutorial |
 | 34. Find First and Last Position of Element in Sorted Array | Link | Tutorial |
