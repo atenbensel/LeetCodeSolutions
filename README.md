@@ -6,7 +6,7 @@ UPDATE: Been traveling but will be creating the tutorials for about 20 of these 
 
 # Python Solutions
 <br>
-Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs
+Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs.
 <br> 
 <br>
 
