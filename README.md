@@ -20,7 +20,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 6. Zigzag Conversion | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/6_ZigzagConversion.py) | [Tutorial](https://www.youtube.com/watch?v=HCHd5IhlNQ4) |
 | 7. Reverse Integer | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/7_ReverseInteger.py) | [Tutorial](https://www.youtube.com/watch?v=jDa4alk1r9c) |
 | 8. String to Integer (atoi) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/8_StringtoInteger(atoi).py) | [Tutorial](https://www.youtube.com/watch?v=PrBNyOXLT1c&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=8) |
-| 9. Palindrome Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/9_PalindromeNumber.py) | Tutorial |
+| 9. Palindrome Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/9_PalindromeNumber.py) | [Tutorial](https://www.youtube.com/watch?v=H7sF-BdphZw&t=32s) |
 | 10. Regular Expression Matching | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/10_RegularExpressionMatching.py) | Tutorial |
 | 11. Container With Most Water | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/11_ContainerWithMostWater.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
 | 12. Integer to Roman | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/12_IntegertoRoman.py) | [Tutorial](https://www.youtube.com/watch?v=CGgb8gARltA) |
