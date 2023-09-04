@@ -60,7 +60,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 46. Permutations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/46.py) | Tutorial |
 | 47. Permutations II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/47.py) | Tutorial |
 | 48. Rotate Image | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/48.py) | Tutorial |
-| 49. Group Anagrams | Link | Tutorial |
+| 49. Group Anagrams | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/49.py) | Tutorial |
 | 50. Pow(x, n) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/50.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
