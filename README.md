@@ -55,7 +55,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 41. First Missing Positive | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/41.py) | Tutorial |
 | 42. Trapping Rain Water | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/42.py) | Tutorial |
 | 43. Multiply Strings | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/43.py) | Tutorial |
-| 44. Wildcard Matching | Link | Tutorial |
+| 44. Wildcard Matching | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/44.py) | Tutorial |
 | 45. Jump Game II | Link | Tutorial |
 | 46. Permutations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/46.py) | Tutorial |
 | 47. Permutations II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/47.py) | Tutorial |
