@@ -64,20 +64,35 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 50. Pow(x, n) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/50.py) | Tutorial |
 | 51. N-Queens | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/51.py) | Tutorial |
 | 52. N-Queens II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/52.py) | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 53. Maximum Subarray | Link | Tutorial |
+| 54. Spiral Matrix | Link | Tutorial |
+| 55. Jump Game | Link | Tutorial |
+| 56. Merge Intervals | Link | Tutorial |
+| 57. Insert Interval | Link | Tutorial |
+| 58. Length of Last Word | Link | Tutorial |
+| 59. Spiral Matrix II | Link | Tutorial |
+| 60. Permutation Sequence | Link | Tutorial |
+| 61. Rotate List | Link | Tutorial |
+| 62. Unique Paths | Link | Tutorial |
 | 63. Unique Paths II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/63.py) | Tutorial |
-| --- | Link | Tutorial |
+| 64. Minimum Path Sum | Link | Tutorial |
+| 65. Valid Number | Link | Tutorial |
+| 66. Plus One | Link | Tutorial |
+| 67. Add Binary | Link | Tutorial |
+| 68. Text Justification | Link | Tutorial |
+| 69. Sqrt(x) | Link | Tutorial |
+| 70. Climbing Stairs | Link | Tutorial |
+| 71. Simplify Path | Link | Tutorial |
+| 72. Edit Distance | Link | Tutorial |
+| 73. Set Matrix Zeroes | Link | Tutorial |
 | 74. Search a 2D Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/74.py) | Tutorial |
-| --- | Link | Tutorial |
+| 75. Sort Colors | Link | Tutorial |
+| 76. Minimum Window Substring | Link | Tutorial |
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 77. Combinations | Link | Tutorial |
+| 78. Subsets | Link | Tutorial |
+| 79. Word Search | Link | Tutorial |
+| 80. Remove Duplicates from Sorted Array II | Link | Tutorial |
 | 81. Search in Rotated Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/81.py) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
