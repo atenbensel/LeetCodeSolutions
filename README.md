@@ -65,7 +65,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 51. N-Queens | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/51.py) | Tutorial |
 | 52. N-Queens II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/52.py) | Tutorial |
 | 53. Maximum Subarray | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/53.py) | Tutorial |
-| 54. Spiral Matrix | Link | Tutorial |
+| 54. Spiral Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/54.py) | Tutorial |
 | 55. Jump Game | Link | Tutorial |
 | 56. Merge Intervals | Link | Tutorial |
 | 57. Insert Interval | Link | Tutorial |
