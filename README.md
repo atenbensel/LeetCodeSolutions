@@ -1,6 +1,5 @@
 # LeetCodeSolutions
 Providing my solutions for LeetCodes!
-UPDATE: Been traveling but will be creating the tutorials for about 20 of these questions!
 <br>
 <br>
 
