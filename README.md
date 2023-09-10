@@ -166,7 +166,7 @@ Below are the LeetCode solutions in Rust with corresponding tutorials/walkthroug
 | --- | --- | --- |
 | 1 | Link | Tutorial |
 | 2 | Link | Tutorial |
-| --- | Link | Tutorial |
+| 3 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/rust/3.rs) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
