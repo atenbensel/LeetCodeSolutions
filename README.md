@@ -74,7 +74,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 61. Rotate List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/61.py) | Tutorial |
 | 62. Unique Paths | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/62.py) | Tutorial |
 | 63. Unique Paths II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/63.py) | Tutorial |
-| 64. Minimum Path Sum | Link | Tutorial |
+| 64. Minimum Path Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/64.py) | Tutorial |
 | 65. Valid Number | Link | Tutorial |
 | 66. Plus One | Link | Tutorial |
 | 67. Add Binary | Link | Tutorial |
