@@ -69,7 +69,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 56. Merge Intervals | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/56.py) | Tutorial |
 | 57. Insert Interval | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/57.py) | Tutorial |
 | 58. Length of Last Word | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/58.py) | Tutorial |
-| 59. Spiral Matrix II | Link | Tutorial |
+| 59. Spiral Matrix II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/59.py) | Tutorial |
 | 60. Permutation Sequence | Link | Tutorial |
 | 61. Rotate List | Link | Tutorial |
 | 62. Unique Paths | Link | Tutorial |
