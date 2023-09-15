@@ -71,7 +71,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 58. Length of Last Word | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/58.py) | Tutorial |
 | 59. Spiral Matrix II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/59.py) | Tutorial |
 | 60. Permutation Sequence | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/60.py) | Tutorial |
-| 61. Rotate List | Link | Tutorial |
+| 61. Rotate List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/61.py) | Tutorial |
 | 62. Unique Paths | Link | Tutorial |
 | 63. Unique Paths II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/63.py) | Tutorial |
 | 64. Minimum Path Sum | Link | Tutorial |
