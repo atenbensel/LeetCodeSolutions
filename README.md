@@ -43,7 +43,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 30. Substring with Concatenation of All Words | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/30.py) | [Tutorial](https://www.youtube.com/watch?v=47pyEiDfpBw&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=23) |
 | 31. Next Permutation | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/31.py) | [Tutorial](https://www.youtube.com/watch?v=wRKmnSggXSc) |
 | 32. Longest Valid Parentheses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/32.py) | [Tutorial](https://www.youtube.com/watch?v=wpogbMDAIZA) |
-| 33. Search in Rotated Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/33.py) | Tutorial |
+| 33. Search in Rotated Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/33.py) | [Tutorial](https://www.youtube.com/watch?v=dexgeZCfyTA&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=26) |
 | 34. Find First and Last Position of Element in Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/34.py) | [Tutorial](https://www.youtube.com/watch?v=I2rJWVoIaRs) |
 | 35. Search Insert Position | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/35.py) | [Tutorial](https://www.youtube.com/watch?v=n7XQaDMsJg4&t=43s) |
 | 36. Valid Sudoku | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/36.py) | Tutorial |
