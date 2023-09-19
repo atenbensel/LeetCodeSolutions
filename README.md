@@ -47,7 +47,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 34. Find First and Last Position of Element in Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/34.py) | [Tutorial](https://www.youtube.com/watch?v=I2rJWVoIaRs) |
 | 35. Search Insert Position | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/35.py) | [Tutorial](https://www.youtube.com/watch?v=n7XQaDMsJg4&t=43s) |
 | 36. Valid Sudoku | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/36.py) | [Tutorial](https://www.youtube.com/watch?v=n7XQaDMsJg4) |
-| 37. Sudoku Solver | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/37.py) | Tutorial |
+| 37. Sudoku Solver | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/37.py) | [Tutorial](https://www.youtube.com/watch?v=A8HukUG2NTc) |
 | 38. Count and Say | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/38.py) | Tutorial |
 | 39. Combination Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/39.py) | Tutorial |
 | 40. Combination Sum II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/40.py) | Tutorial |
