@@ -1,5 +1,5 @@
 # LeetCodeSolutions
-Providing my solutions for LeetCode Solutions!
+Providing my LeetCode Solutions!
 <br>
 <br>
 
