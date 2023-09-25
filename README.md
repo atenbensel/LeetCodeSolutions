@@ -1,5 +1,5 @@
 # LeetCodeSolutions
-The following are my LeetCode Solutions!
+I'll add to my LeetCode solutions here! (and update this section soon)
 <br>
 <br>
 
