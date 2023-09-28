@@ -5,7 +5,7 @@ I'll add to my LeetCode solutions here! (& update this section soon)
 
 # Python Solutions
 <br>
-Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs.
+Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs. If there is a special request for solutions, reach out!
 <br> 
 <br>
 
