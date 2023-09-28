@@ -52,7 +52,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 39. Combination Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/39.py) | [Tutorial](https://www.youtube.com/watch?v=RAU7GokzV1Q&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=32) |
 | 40. Combination Sum II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/40.py) | [Tutorial](https://www.youtube.com/watch?v=NrRJ2cHnjgA&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=33) |
 | 41. First Missing Positive | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/41.py) | [Tutorial](https://www.youtube.com/watch?v=huw4Sk3huWw&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=34) |
-| 42. Trapping Rain Water | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/42.py) | Tutorial |
+| 42. Trapping Rain Water | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/42.py) | [Tutorial](https://www.youtube.com/watch?v=8FWhh6Xkf4Y&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=35) |
 | 43. Multiply Strings | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/43.py) | Tutorial |
 | 44. Wildcard Matching | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/44.py) | Tutorial |
 | 45. Jump Game II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/45.py) | Tutorial |
