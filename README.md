@@ -49,7 +49,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 36. Valid Sudoku | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/36.py) | [Tutorial](https://www.youtube.com/watch?v=n7XQaDMsJg4) |
 | 37. Sudoku Solver | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/37.py) | [Tutorial](https://www.youtube.com/watch?v=A8HukUG2NTc) |
 | 38. Count and Say | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/38.py) | [Tutorial](https://www.youtube.com/watch?v=__VUvvctZFA) |
-| 39. Combination Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/39.py) | Tutorial |
+| 39. Combination Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/39.py) | [Tutorial](https://www.youtube.com/watch?v=RAU7GokzV1Q&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=32) |
 | 40. Combination Sum II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/40.py) | Tutorial |
 | 41. First Missing Positive | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/41.py) | Tutorial |
 | 42. Trapping Rain Water | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/42.py) | Tutorial |
