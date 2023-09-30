@@ -56,7 +56,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 43. Multiply Strings | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/43.py) | [Tutorial](https://www.youtube.com/watch?v=Co45jx6pVx0&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=37) |
 | 44. Wildcard Matching | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/44.py) | [Tutorial](https://www.youtube.com/watch?v=xwNuflsRR7c&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=36) |
 | 45. Jump Game II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/45.py) | [Tutorial](https://www.youtube.com/watch?v=gjXvQU9Fb1Q&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=38) |
-| 46. Permutations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/46.py) | Tutorial |
+| 46. Permutations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/46.py) | [Tutorial](https://www.youtube.com/watch?v=nvzTZkt8tE0) |
 | 47. Permutations II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/47.py) | Tutorial |
 | 48. Rotate Image | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/48.py) | Tutorial |
 | 49. Group Anagrams | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/49.py) | Tutorial |
