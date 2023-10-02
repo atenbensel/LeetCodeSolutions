@@ -77,7 +77,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 64. Minimum Path Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/64.py) | Tutorial |
 | 65. Valid Number | Link | Tutorial |
 | 66. Plus One | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/66.py) | Tutorial |
-| 67. Add Binary | [Link 1](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67a.py) Link 2 | Tutorial |
+| 67. Add Binary | [Link 1](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67a.py) [Link 2](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67b.py) | Tutorial |
 | 68. Text Justification | Link | Tutorial |
 | 69. Sqrt(x) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/69.py) | Tutorial |
 | 70. Climbing Stairs | Link | Tutorial |
