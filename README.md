@@ -79,7 +79,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 66. Plus One | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/66.py) | Tutorial |
 | 67. Add Binary | Link | Tutorial |
 | 68. Text Justification | Link | Tutorial |
-| 69. Sqrt(x) | Link | Tutorial |
+| 69. Sqrt(x) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/69.py) | Tutorial |
 | 70. Climbing Stairs | Link | Tutorial |
 | 71. Simplify Path | Link | Tutorial |
 | 72. Edit Distance | Link | Tutorial |
