@@ -93,9 +93,25 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 79. Word Search | Link | Tutorial |
 | 80. Remove Duplicates from Sorted Array II | Link | Tutorial |
 | 81. Search in Rotated Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/81.py) | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
+| 82. Remove Duplicates from Sorted List II | Link | Tutorial |
+| 83. Remove Duplicates from Sorted List | Link | Tutorial |
+| 84. Largest Rectangle in Histogram | Link | Tutorial |
+| 85. Maximal Rectangle | Link | Tutorial |
+| 86. Partition List | Link | Tutorial |
+| 87. Scramble String | Link | Tutorial |
+| 88. Merge Sorted Array | Link | Tutorial |
+| 89. Gray Code | Link | Tutorial |
+| 90. Subsets II | Link | Tutorial |
+| 91. Decode Ways | Link | Tutorial |
+| 92. Reverse Linked List II | Link | Tutorial |
+| 93. Restore IP Addresses | Link | Tutorial |
+| 94. Binary Tree Inorder Traversal | Link | Tutorial |
+| 95. Unique Binary Search Trees II | Link | Tutorial |
+| 96. Unique Binary Search Trees | Link | Tutorial |
+| 97. Interleaving String | Link | Tutorial |
+| 98. Validate Binary Search Tree | Link | Tutorial |
+| 99. Recover Binary Search Tree | Link | Tutorial |
+| 100. Same Tree | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
 | 139. Word Break | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/139.py) | Tutorial |
