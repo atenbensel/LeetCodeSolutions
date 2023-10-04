@@ -181,7 +181,7 @@ Below are the LeetCode solutions in Rust with corresponding tutorials/walkthroug
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
 | 1 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/rust/1_TwoSum.rs) | Tutorial |
-| 2 | Link | Tutorial |
+| 2 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/rust/2_addTwoNumbers.rs) | Tutorial |
 | 3 | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/rust/3.rs) | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
