@@ -61,7 +61,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 48. Rotate Image | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/48.py) | [Tutorial](https://www.youtube.com/watch?v=iaJ3tlLXR-4&t=14s) |
 | 49. Group Anagrams | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/49.py) | [Tutorial](https://www.youtube.com/watch?v=XdkKGlCX7aw) |
 | 50. Pow(x, n) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/50.py) | [Tutorial](https://www.youtube.com/watch?v=DaoJ2020okA&list=PLR3s6QkVakkjndlzMhU6UXdUdr0uiCsbT&index=41) |
-| 51. N-Queens | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/51.py) | Tutorial |
+| 51. N-Queens | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/51.py) | [Tutorial](https://youtu.be/9FK9z8mZLNg?si=tOtmV6JMsrrzZJyj) |
 | 52. N-Queens II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/52.py) | Tutorial |
 | 53. Maximum Subarray | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/53.py) | Tutorial |
 | 54. Spiral Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/54.py) | Tutorial |
