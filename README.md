@@ -64,7 +64,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 51. N-Queens | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/51.py) | [Tutorial](https://youtu.be/9FK9z8mZLNg?si=tOtmV6JMsrrzZJyj) |
 | 52. N-Queens II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/52.py) | [Tutorial](https://youtu.be/iXrgYaaQzz4?si=OjifqWiUgwOZwQDR) |
 | 53. Maximum Subarray | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/53.py) | [Tutorial](https://youtu.be/pDhWJSalAnw?si=0Xm5WvgsJSFTc3yT) |
-| 54. Spiral Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/54.py) | Tutorial |
+| 54. Spiral Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/54.py) | [Tutorial](https://www.youtube.com/watch?v=tx9A6I0JVco) |
 | 55. Jump Game | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/55.py) | Tutorial |
 | 56. Merge Intervals | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/56.py) | Tutorial |
 | 57. Insert Interval | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/57.py) | Tutorial |
