@@ -1,4 +1,4 @@
-# LeetCodeSolutions
+# LeetCode Solutions
 
 <br>
 <br>
