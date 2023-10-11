@@ -66,7 +66,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 53. Maximum Subarray | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/53.py) | [Tutorial](https://youtu.be/pDhWJSalAnw?si=0Xm5WvgsJSFTc3yT) |
 | 54. Spiral Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/54.py) | [Tutorial](https://www.youtube.com/watch?v=tx9A6I0JVco) |
 | 55. Jump Game | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/55.py) | [Tutorial](https://www.youtube.com/watch?v=5aGLUdnQKkw) |
-| 56. Merge Intervals | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/56.py) | Tutorial |
+| 56. Merge Intervals | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/56.py) | [Tutorial](https://www.youtube.com/watch?v=eeaxbEuY_t0&t=14s) |
 | 57. Insert Interval | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/57.py) | Tutorial |
 | 58. Length of Last Word | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/58.py) | Tutorial |
 | 59. Spiral Matrix II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/59.py) | Tutorial |
