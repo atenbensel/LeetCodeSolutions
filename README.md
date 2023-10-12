@@ -80,7 +80,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 67. Add Binary | [Link 1](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67a.py) [Link 2](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67b.py) | Tutorial |
 | 68. Text Justification | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/68.py) | Tutorial |
 | 69. Sqrt(x) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/69.py) | Tutorial |
-| 70. Climbing Stairs | Link | Tutorial |
+| 70. Climbing Stairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/70.py) | Tutorial |
 | 71. Simplify Path | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/71.py) | Tutorial |
 | 72. Edit Distance | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/72.py) | Tutorial |
 | 73. Set Matrix Zeroes | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/73.py) | Tutorial |
