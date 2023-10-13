@@ -70,7 +70,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 57. Insert Interval | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/57.py) | [Tutorial](https://www.youtube.com/watch?v=g2R2k4-nrnY) |
 | 58. Length of Last Word | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/58.py) | [Tutorial](https://www.youtube.com/watch?v=vdhyTF1gFFg) |
 | 59. Spiral Matrix II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/59.py) | [Tutorial](https://www.youtube.com/watch?v=5uZbA-tJXT8) |
-| 60. Permutation Sequence | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/60.py) | Tutorial |
+| 60. Permutation Sequence | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/60.py) | [Tutorial](https://www.youtube.com/watch?v=7TuHOlLfOv8) |
 | 61. Rotate List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/61.py) | Tutorial |
 | 62. Unique Paths | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/62.py) | Tutorial |
 | 63. Unique Paths II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/63.py) | Tutorial |
