@@ -89,7 +89,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 76. Minimum Window Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/76.py) | Tutorial |
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
 | 77. Combinations | Link | Tutorial |
-| 78. Subsets | Link | Tutorial |
+| 78. Subsets | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/78.py) | Tutorial |
 | 79. Word Search | Link | Tutorial |
 | 80. Remove Duplicates from Sorted Array II | Link | Tutorial |
 | 81. Search in Rotated Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/81.py) | Tutorial |
