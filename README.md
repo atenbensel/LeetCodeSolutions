@@ -88,7 +88,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 75. Sort Colors | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/75.py) | Tutorial |
 | 76. Minimum Window Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/76.py) | Tutorial |
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
-| 77. Combinations | Link | Tutorial |
+| 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
 | 78. Subsets | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/78.py) | Tutorial |
 | 79. Word Search | Link | Tutorial |
 | 80. Remove Duplicates from Sorted Array II | Link | Tutorial |
