@@ -86,7 +86,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 73. Set Matrix Zeroes | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/73.py) | Tutorial |
 | 74. Search a 2D Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/74.py) | Tutorial |
 | 75. Sort Colors | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/75.py) | Tutorial |
-| 76. Minimum Window Substring | Link | Tutorial |
+| 76. Minimum Window Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/76.py) | Tutorial |
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
 | 77. Combinations | Link | Tutorial |
 | 78. Subsets | Link | Tutorial |
