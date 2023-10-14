@@ -91,7 +91,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
 | 78. Subsets | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/78.py) | Tutorial |
 | 79. Word Search | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/79.py) | Tutorial |
-| 80. Remove Duplicates from Sorted Array II | Link | Tutorial |
+| 80. Remove Duplicates from Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/80.py) | Tutorial |
 | 81. Search in Rotated Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/81.py) | Tutorial |
 | 82. Remove Duplicates from Sorted List II | Link | Tutorial |
 | 83. Remove Duplicates from Sorted List | Link | Tutorial |
