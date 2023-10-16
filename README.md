@@ -98,7 +98,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 84. Largest Rectangle in Histogram | Link | Tutorial |
 | 85. Maximal Rectangle | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/85.py) | Tutorial |
 | 86. Partition List | Link | Tutorial |
-| 87. Scramble String | Link | Tutorial |
+| 87. Scramble String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/87.py) | Tutorial |
 | 88. Merge Sorted Array | Link | Tutorial |
 | 89. Gray Code | Link | Tutorial |
 | 90. Subsets II | Link | Tutorial |
