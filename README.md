@@ -73,7 +73,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 60. Permutation Sequence | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/60.py) | [Tutorial](https://www.youtube.com/watch?v=7TuHOlLfOv8) |
 | 61. Rotate List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/61.py) | [Tutorial](https://www.youtube.com/watch?v=NS5ad0pP3fw) |
 | 62. Unique Paths | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/62.py) | [Tutorial](https://www.youtube.com/watch?v=Y9H_vcTvqzU) |
-| 63. Unique Paths II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/63.py) | Tutorial |
+| 63. Unique Paths II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/63.py) | [Tutorial](https://www.youtube.com/watch?v=qSAln-cWH8Y) |
 | 64. Minimum Path Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/64.py) | Tutorial |
 | 65. Valid Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/65.py) | Tutorial |
 | 66. Plus One | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/66.py) | Tutorial |
