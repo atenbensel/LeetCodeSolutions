@@ -95,7 +95,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 81. Search in Rotated Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/81.py) | Tutorial |
 | 82. Remove Duplicates from Sorted List II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/82.py) | Tutorial |
 | 83. Remove Duplicates from Sorted List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/83.py) | Tutorial |
-| 84. Largest Rectangle in Histogram | Link | Tutorial |
+| 84. Largest Rectangle in Histogram | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/84.py) | Tutorial |
 | 85. Maximal Rectangle | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/85.py) | Tutorial |
 | 86. Partition List | Link | Tutorial |
 | 87. Scramble String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/87.py) | Tutorial |
