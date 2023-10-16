@@ -97,7 +97,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 83. Remove Duplicates from Sorted List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/83.py) | Tutorial |
 | 84. Largest Rectangle in Histogram | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/84.py) | Tutorial |
 | 85. Maximal Rectangle | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/85.py) | Tutorial |
-| 86. Partition List | Link | Tutorial |
+| 86. Partition List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/86.py) | Tutorial |
 | 87. Scramble String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/87.py) | Tutorial |
 | 88. Merge Sorted Array | Link | Tutorial |
 | 89. Gray Code | Link | Tutorial |
