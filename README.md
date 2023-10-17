@@ -103,7 +103,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 89. Gray Code | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/89.py) | Tutorial |
 | 90. Subsets II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/90.py) | Tutorial |
 | 91. Decode Ways | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/91.py) | Tutorial |
-| 92. Reverse Linked List II | Link | Tutorial |
+| 92. Reverse Linked List II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/92.py) | Tutorial |
 | 93. Restore IP Addresses | Link | Tutorial |
 | 94. Binary Tree Inorder Traversal | Link | Tutorial |
 | 95. Unique Binary Search Trees II | Link | Tutorial |
