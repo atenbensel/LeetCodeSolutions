@@ -1,5 +1,6 @@
 # LeetCode Solutions
-
+<br>
+112 Solutions / 2869 problems
 <br>
 <br>
 
