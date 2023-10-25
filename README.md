@@ -1,6 +1,6 @@
 # LeetCode Solutions
 <br>
-Here's my progress:
+Progress Tracker:
 <br>
 <img width="286" alt="Screen Shot 2023-10-21 at 12 24 49 AM" src="https://github.com/atenbensel/LeetCodeSolutions/assets/89222426/26b34e14-5feb-4044-8072-1d239a974a04">
 
