@@ -113,7 +113,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 95. Unique Binary Search Trees II | Link | Tutorial |
 | 96. Unique Binary Search Trees | Link | Tutorial |
 | 97. Interleaving String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/97.py) | Tutorial |
-| 98. Validate Binary Search Tree | Link | Tutorial |
+| 98. Validate Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/98.py) | Tutorial |
 | 99. Recover Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/99.py) | Tutorial |
 | 100. Same Tree | Link | Tutorial |
 | --- | Link | Tutorial |
