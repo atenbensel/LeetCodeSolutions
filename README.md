@@ -109,7 +109,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 91. Decode Ways | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/91.py) | Tutorial |
 | 92. Reverse Linked List II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/92.py) | Tutorial |
 | 93. Restore IP Addresses | Link | Tutorial |
-| 94. Binary Tree Inorder Traversal | Link | Tutorial |
+| 94. Binary Tree Inorder Traversal | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/94.py) | Tutorial |
 | 95. Unique Binary Search Trees II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/95.py) | Tutorial |
 | 96. Unique Binary Search Trees | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/96.py) | Tutorial |
 | 97. Interleaving String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/97.py) | Tutorial |
