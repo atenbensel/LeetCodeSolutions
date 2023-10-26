@@ -81,7 +81,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 | 64. Minimum Path Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/64.py) | [Tutorial](https://www.youtube.com/watch?v=Kr1RH42lvL8&t=4s) |
 | 65. Valid Number | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/65.py) | Tutorial |
 | 66. Plus One | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/66.py) | [Tutorial](https://www.youtube.com/watch?v=Nu_0HfTXJ2Y) |
-| 67. Add Binary | [Link 1](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67a.py) [Link 2](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67b.py) | Tutorial |
+| 67. Add Binary | [Link 1](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67a.py) [Link 2](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/67b.py) | [Tutorial](https://www.youtube.com/watch?v=rZxRo_PzKcQ&t=28s) |
 | 68. Text Justification | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/68.py) | [Tutorial](https://www.youtube.com/watch?v=rZxRo_PzKcQ) |
 | 69. Sqrt(x) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/69.py) | [Tutorial](https://youtu.be/Arvgu16aWzg?si=kTLnkGWVQo052B-B) |
 | 70. Climbing Stairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/70.py) | Tutorial |
