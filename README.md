@@ -2,7 +2,7 @@
 <br>
 Progress Tracker:
 <br>
-<img width="291" alt="Screen Shot 2023-10-27 at 8 07 55 AM" src="https://github.com/atenbensel/LeetCodeSolutions/assets/89222426/ccfffa79-ad0f-4b72-909b-74117f359bf9">
+<img width="289" alt="Screen Shot 2023-10-27 at 8 08 38 AM" src="https://github.com/atenbensel/LeetCodeSolutions/assets/89222426/ddf31434-70de-4829-994e-3eb06d3e669b">
 <br>
 <br>
 
