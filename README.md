@@ -1,6 +1,5 @@
 # LeetCode Solutions
 <br>
-<br>
 Progress Tracker:
 <br>
 <br>
