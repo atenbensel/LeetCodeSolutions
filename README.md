@@ -11,7 +11,6 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 <br>
 Got the request to do Blind 75!
 <br> 
-<br>
 
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
