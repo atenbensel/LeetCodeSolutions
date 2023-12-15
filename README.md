@@ -113,7 +113,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 96. Unique Binary Search Trees | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/96.py) | Tutorial |
 | 97. Interleaving String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/97.py) | Tutorial |
 | 98. Validate Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/98.py) | Tutorial |
-| 99. Recover Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/99.py) | Tutorial |
+| 99. Recover Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/99.py) | [Tutorial](https://www.youtube.com/watch?v=N8YwrXR8HvI) |
 | 100. Same Tree | Link | Tutorial |
 | --- | Link | Tutorial |
 | --- | Link | Tutorial |
