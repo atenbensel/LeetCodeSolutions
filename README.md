@@ -105,7 +105,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 88. Merge Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/88.py) | Tutorial |
 | 89. Gray Code | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/89.py) | Tutorial |
 | 90. Subsets II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/90.py) | Tutorial |
-| 91. Decode Ways | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/91.py) | Tutorial |
+| 91. Decode Ways | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/91.py) | [Tutorial](https://www.youtube.com/watch?v=rX5dshNcSVk) |
 | 92. Reverse Linked List II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/92.py) | Tutorial |
 | 93. Restore IP Addresses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/93.py) | Tutorial |
 | 94. Binary Tree Inorder Traversal | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/94.py) | Tutorial |
