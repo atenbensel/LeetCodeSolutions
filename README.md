@@ -119,13 +119,6 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | --- | Link | Tutorial |
 | 139. Word Break | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/139.py) | Tutorial |
 | --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
-| --- | Link | Tutorial |
 | 920. Number of Music Playlists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/920.py) | Tutorial |
 | --- | Link | Tutorial |
 <br>
