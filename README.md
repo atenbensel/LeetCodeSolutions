@@ -110,7 +110,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 93. Restore IP Addresses | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/93.py) | Tutorial |
 | 94. Binary Tree Inorder Traversal | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/94.py) | Tutorial |
 | 95. Unique Binary Search Trees II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/95.py) | Tutorial |
-| 96. Unique Binary Search Trees | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/96.py) | Tutorial |
+| 96. Unique Binary Search Trees | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/96.py) | [Tutorial](https://www.youtube.com/watch?v=5jujnfcx_QA) |
 | 97. Interleaving String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/97.py) | [Tutorial](https://www.youtube.com/watch?v=0wNy9927NKo) |
 | 98. Validate Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/98.py) | [Tutorial](https://www.youtube.com/watch?v=2_RBs-uupLY) |
 | 99. Recover Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/99.py) | [Tutorial](https://www.youtube.com/watch?v=N8YwrXR8HvI) |
