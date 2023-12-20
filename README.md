@@ -101,7 +101,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 84. Largest Rectangle in Histogram | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/84.py) | Tutorial |
 | 85. Maximal Rectangle | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/85.py) | Tutorial |
 | 86. Partition List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/86.py) | Tutorial |
-| 87. Scramble String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/87.py) | Tutorial |
+| 87. Scramble String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/87.py) | [Tutorial](https://www.youtube.com/watch?v=bRNaoPD71po) |
 | 88. Merge Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/88.py) | Tutorial |
 | 89. Gray Code | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/89.py) | Tutorial |
 | 90. Subsets II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/90.py) | Tutorial |
