@@ -84,7 +84,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 68. Text Justification | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/68.py) | [Tutorial](https://www.youtube.com/watch?v=rZxRo_PzKcQ) |
 | 69. Sqrt(x) | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/69.py) | [Tutorial](https://youtu.be/Arvgu16aWzg?si=kTLnkGWVQo052B-B) |
 | 70. Climbing Stairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/70.py) | [Tutorial](https://youtu.be/IU8qcWdFTGQ?si=do5DsixtQSKOX-L1) |
-| 71. Simplify Path | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/71.py) | Tutorial |
+| 71. Simplify Path | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/71.py) | [Tutorial](https://www.youtube.com/watch?v=k6jBWEYNt1s) |
 | 72. Edit Distance | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/72.py) | Tutorial |
 | 73. Set Matrix Zeroes | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/73.py) | Tutorial |
 | 74. Search a 2D Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/74.py) | Tutorial |
