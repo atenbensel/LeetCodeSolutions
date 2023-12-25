@@ -86,7 +86,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 70. Climbing Stairs | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/70.py) | [Tutorial](https://youtu.be/IU8qcWdFTGQ?si=do5DsixtQSKOX-L1) |
 | 71. Simplify Path | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/71.py) | [Tutorial](https://www.youtube.com/watch?v=k6jBWEYNt1s) |
 | 72. Edit Distance | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/72.py) | [Tutorial](https://www.youtube.com/watch?v=ZVS4UTsuY0I) |
-| 73. Set Matrix Zeroes | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/73.py) | Tutorial |
+| 73. Set Matrix Zeroes | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/73.py) | [Tutorial](https://www.youtube.com/watch?v=O34SGKWhGI8) |
 | 74. Search a 2D Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/74.py) | Tutorial |
 | 75. Sort Colors | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/75.py) | Tutorial |
 | 76. Minimum Window Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/76.py) | Tutorial |
