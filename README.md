@@ -5,12 +5,16 @@ Progress Tracker:
 <img width="289" alt="Screen Shot 2023-10-27 at 8 08 38 AM" src="https://github.com/atenbensel/LeetCodeSolutions/assets/89222426/ddf31434-70de-4829-994e-3eb06d3e669b">
 <br>
 
+## Badges
+![image](https://github.com/atenbensel/LeetCodeSolutions/assets/89222426/aeaf0d0b-fa02-4719-8b98-48740d5c82fa)
+
+
 # Python Solutions
-<br>
+<br> <br>
 Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs. If there is a special request for solutions, reach out!
 <br>
 Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
-<br> 
+<br> <br>
 
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
@@ -115,11 +119,18 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 99. Recover Binary Search Tree | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/99.py) | [Tutorial](https://www.youtube.com/watch?v=N8YwrXR8HvI) |
 | 100. Same Tree | Link | Tutorial |
 | --- | Link | Tutorial |
-| --- | Link | Tutorial |
 | 139. Word Break | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/139.py) | Tutorial |
 | --- | Link | Tutorial |
 | 920. Number of Music Playlists | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/920.py) | Tutorial |
-| --- | Link | Tutorial |
+<br>
+
+# Blind 75
+<br>
+| Number & Name | Python Solution | Video Tutorial | 
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+<br>
 <br>
 
 # Juleetcode Solutions 2023
