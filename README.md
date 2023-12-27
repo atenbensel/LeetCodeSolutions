@@ -93,7 +93,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | [Tutorial](https://www.youtube.com/watch?v=SjMDQBhs-Iw) |
 | 78. Subsets | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/78.py) | [Tutorial](https://www.youtube.com/watch?v=A4l_bBAIrWQ) |
 | 79. Word Search | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/79.py) | [Tutorial](https://www.youtube.com/watch?v=0GTZHkBIWEw) |
-| 80. Remove Duplicates from Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/80.py) | Tutorial |
+| 80. Remove Duplicates from Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/80.py) | [Tutorial](https://www.youtube.com/watch?v=WGCoTkdz1S4&t=16s) |
 | 81. Search in Rotated Sorted Array II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/81.py) | Tutorial |
 | 82. Remove Duplicates from Sorted List II | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/82.py) | Tutorial |
 | 83. Remove Duplicates from Sorted List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/83.py) | Tutorial |
