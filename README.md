@@ -103,7 +103,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 83. Remove Duplicates from Sorted List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/83.py) | [Tutorial](https://www.youtube.com/watch?v=8NncFifY7bg) |
 | 84. Largest Rectangle in Histogram | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/84.py) | [Tutorial](https://www.youtube.com/watch?v=Pw4zcZjGPxQ) |
 | 85. Maximal Rectangle | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/85.py) | [Tutorial](https://www.youtube.com/watch?v=PcK_FB8-nGA&t=6s) |
-| 86. Partition List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/86.py) | Tutorial |
+| 86. Partition List | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/86.py) | [Tutorial](https://www.youtube.com/watch?v=4SiTpAEyL58) |
 | 87. Scramble String | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/87.py) | [Tutorial](https://www.youtube.com/watch?v=bRNaoPD71po) |
 | 88. Merge Sorted Array | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/88.py) | Tutorial |
 | 89. Gray Code | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/89.py) | Tutorial |
