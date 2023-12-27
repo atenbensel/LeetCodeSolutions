@@ -88,7 +88,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | 72. Edit Distance | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/72.py) | [Tutorial](https://www.youtube.com/watch?v=ZVS4UTsuY0I) |
 | 73. Set Matrix Zeroes | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/73.py) | [Tutorial](https://www.youtube.com/watch?v=O34SGKWhGI8) |
 | 74. Search a 2D Matrix | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/74.py) | [Tutorial](https://www.youtube.com/watch?v=AQNH2-bXW6o) |
-| 75. Sort Colors | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/75.py) | Tutorial |
+| 75. Sort Colors | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/75.py) | [Tutorial](https://www.youtube.com/watch?v=WCz2Bnm7qxQ) |
 | 76. Minimum Window Substring | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/76.py) | Tutorial |
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
 | 77. Combinations | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/77.py) | Tutorial |
