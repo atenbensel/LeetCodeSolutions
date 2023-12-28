@@ -131,7 +131,6 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | Two Sum | [Link](https://github.com/atenbensel/LeetCodeSolutions/blob/main/python/1_TwoSum.py) | [Tutorial](https://www.youtube.com/watch?v=bkdS3lsqTM4) |
 | --- | --- | --- |
 <br>
-<br>
 
 # Juleetcode Solutions 2023
 <br>
