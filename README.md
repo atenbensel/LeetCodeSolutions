@@ -129,6 +129,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | --- | --- | --- |
 <br>
 
+
 # Juleetcode Solutions 2023
 <br>
 Here are the daily solutions for Juleetcode 2023 for Python (not Python3).
