@@ -124,7 +124,7 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 <br>
 
 # Blind 75
-<br>
+
 | Question | Category | Python Solution | JavaScript Solution | C++ Solution | PHP Solution | GO Solution | Video Tutorial |
 |----------|----------|-----------------|---------------------|--------------|--------------|-------------|----------------|
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Array | Python | JavaScript | C++ | PHP | GO | [Watch Tutorial](#) |
@@ -203,7 +203,6 @@ Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Heap | Python | JavaScript | C++ | PHP | GO | [Watch Tutorial](#) |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Heap | Python | JavaScript | C++ | PHP | GO | [Watch Tutorial](#) |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Heap | Python | JavaScript | C++ | PHP | GO | [Watch Tutorial](#) |
-<br>
 
 
 # Juleetcode Solutions 2023
