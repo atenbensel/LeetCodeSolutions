@@ -10,4 +10,3 @@ The following are my solutions is a variety of languages, all include instructio
 | Question | Category | Python Solution | JavaScript Solution  | C++ Solution | Video Tutorial |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
