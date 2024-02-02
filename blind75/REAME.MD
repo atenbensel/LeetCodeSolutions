@@ -1,7 +1,7 @@
 # Blind 75
 
 Blind 75 and its predecessor Grind 75 are a set of 75 curated coding questions that are vital to ace coding interviews.
-The tech creator of Blind 75 is @yangshun
+The tech creator of Blind 75 is @yangshun!
 
 ## Solutions
 
