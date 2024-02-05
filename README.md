@@ -11,8 +11,6 @@ Progress Tracker:
 # Python Solutions
 <br> <br>
 Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs. If there is a special request for solutions, reach out!
-<br>
-Got the request to do Blind 75! I'm planning on starting blind 75 January 1st!
 <br> <br>
 
 | Number & Name | Repo | Video Tutorial |
