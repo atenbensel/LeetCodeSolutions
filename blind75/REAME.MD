@@ -5,7 +5,7 @@ The tech creator of Blind 75 is @yangshun!
 
 ## Solutions
 
-The following are my solutions is a variety of languages, all include instructional videos for further insight
+The following are my solutions in a variety of languages, all include instructional videos for further insight
 
 | Question | Category | Python Solution | JavaScript Solution | C++ Solution | PHP Solution | GO Solution | Video Tutorial |
 |----------|----------|-----------------|---------------------|--------------|--------------|-------------|----------------|
