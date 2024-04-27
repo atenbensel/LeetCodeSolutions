@@ -12,7 +12,7 @@ Progress Tracker:
 Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs. If there is a special request for solutions, reach out!
 <br>
 <br>
-<br> 
+<br>
 
 | Number & Name | Repo | Video Tutorial |
 | --- | --- | --- |
