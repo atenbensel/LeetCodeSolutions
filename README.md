@@ -5,6 +5,7 @@ Progress Tracker:
 <img width="289" alt="Screen Shot 2023-10-27 at 8 08 38 AM" src="https://github.com/atenbensel/LeetCodeSolutions/assets/89222426/ddf31434-70de-4829-994e-3eb06d3e669b">
 <br>
 
+
 # Python Solutions
 <br>
 Below are the LeetCode solutions in Python with corresponding tutorials/walkthroughs. If there is a special request for solutions, reach out!
