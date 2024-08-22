@@ -124,6 +124,7 @@ Below are the LeetCode solutions in Python with corresponding tutorials/walkthro
 
 # Blind 75
 
+<br>
 
 | Question | Category | Python Solution | JavaScript Solution | C++ Solution | PHP Solution | GO Solution | Video Tutorial |
 |----------|----------|-----------------|---------------------|--------------|--------------|-------------|----------------|
